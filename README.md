@@ -114,8 +114,8 @@ The project itself will take approximately five months to complete. Once the tec
 
 |Budget item| Amount | Running Total | Notes/justifications |
 |--|--|--|--|
-| Technical writer audit, update, test, and publish new documentation for EnvisEdge. | $5000 | $10000 | 2 technical writers are needed. $1000 per technical writer each month for 5 months.|
-| Volunteer stipends |  $500 | $12000 | 3 Mentors are needed + design team support. ($500 each for volunteers = Total $2000)|
+| Technical writer audit, update, test, and publish new documentation for EnvisEdge. | $5000 | $10000 | 2 x technical writers are needed. $1000 per technical writer each month for 5 months.|
+| Volunteer stipends |  $500 | $12000 | 3 Mentors are needed + 1 design team support. ($500 x 4 volunteers = Total $2000)|
 |Project swags | $200 | $12200  | $200 for the swags (Can be stickers, tshirts etc.)|
 | TOTAL | - | $12200 | - |
 
