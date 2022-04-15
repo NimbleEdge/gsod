@@ -68,6 +68,9 @@ We presume that the technical writer assigned to this project has no prior knowl
 Please send your statement of interest by April 26th.
 
   
+  **JOIN OUR DISCORD COMMUNITY:** Join our [Discord Community](https://nimbleedge.ai/discord) and Introduce yourself in the #introductions channel. We also have a dedicated channel "#gsod" for Google Season of Docs contributors. 
+  
+  
 
 ###  Project Success Measure
 
