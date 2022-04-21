@@ -60,18 +60,16 @@ For EnvisEdge, the technical writers will work on the following:
     
 We presume that the technical writer assigned to this project has no prior knowledge of NimbleEdge or its community. This means time will need to be built into the project plan at the start to get familiar with it. Mentors will provide walkthroughs, set up time for discussing with or interviewing different kinds of end-users and content experts. We are open to listening to writers' suggestions and contributions.
 
-  
-  
 
-**TECHNICAL WRITERS:** Please email at community@nimbleedge.ai if you're interested in working on this project. Please also refer to the Google Season of Docs [Technical writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide) to prepare your statement of interest.
+**TECHNICAL WRITERS:** Check out our [Google Season of Docs Announcement blog](https://blog.nimbleedge.ai/announcing-nimbleedge-google-season-of-docs-2022/) if you're interested in working on this project. We have added the steps to help you start your contributing journey in the GSOD 2022 with NimbleEdge EnvisEdge project.
 
-Please send your statement of interest by April 26th.
+Note: We'll be only considering the applications from this [application form](https://forms.gle/z274GfjSVmHMD97n7), please make sure you have completed all the steps before submitting the [application form](https://forms.gle/z274GfjSVmHMD97n7).
 
+The application deadline for the NimbleEdge GSoD Technical Writer position is May 8, 2022.
   
   **JOIN OUR DISCORD COMMUNITY:** Join our [Discord Community](https://nimbleedge.ai/discord) and Introduce yourself in the #introductions channel. We also have a dedicated channel "#gsod" for Google Season of Docs contributors. 
   
   
-
 ###  Project Success Measure
 
 
