@@ -3,10 +3,10 @@
 ## About NimbleEdge
 
 
-NimbleEdge is leading the movement towards edge computing, building a new era of technology that alters the status quo between the cloud and the users' devices. NimbleEdge provides hyper-personalised AI without any data leaving the device. A technology that is inherently privacy-preserving.
+NimbleEdge is leading the movement towards Edge computing, building a new era of technology that alters the status quo between the cloud and the users' devices. NimbleEdge provides hyper-personalised AI without any data leaving the device. A technology that is inherently privacy-preserving.
 
 
-Our core mission is to educate and raise awareness of edge computing and the benefits of the edge in terms of privacy, security, and app performance.
+Our core mission is to educate and raise awareness of edge computing and the benefits of the Edge in terms of privacy, security, and app performance.
 
 Having said that, we are a growing community of 300+ active individuals from a varied range of backgrounds, including hackers, developers, researchers, engineers, PhD students, professors, and many others. We organize a number of AMA sessions, talk shows, and live jam sessions for community interaction to assist people understand how easy it is to deploy to the edge and how anybody can try it out. Bringing awareness of edge computing to future seedlings.
 
@@ -17,7 +17,7 @@ Having said that, we are a growing community of 300+ active individuals from a v
 ### Project Problem
 
 
-EnvisEdge is an Apache 2.0 licensed library that allows users to simulate an edge computing environment to test their ideas and models before putting them in place on the edge. Although edge computing offers significant privacy and security benefits. It also demands a large amount of computing power on the hardware side. EnvisEdge allows researchers and data scientists to to experiment and test their hypotheses, and produce production-ready code without having direct access to the edge devices. Creating a path for global research and growth in the domains of computing, artificial intelligence, and machine learning.
+EnvisEdge is an Apache 2.0 licensed library that allows users to simulate an Edge computing environment to test their ideas and models before putting them in place on the edge. Although Edge computing offers significant privacy and security benefits. It also demands a large amount of computing power on the hardware side. EnvisEdge allows researchers and data scientists to to experiment and test their hypotheses, and produce production-ready code without having direct access to the Edge devices. Creating a path for global research and growth in the domains of computing, artificial intelligence, and machine learning.
 
 As previously said, we are a fast growing community. With the increase of contributor-driven modifications comes the need for improved and more accurate walkthroughs, tutorials, demos, and additional documentation updates. ([https://docs.nimbleedge.ai/](https://docs.nimbleedge.ai/) )
 
@@ -58,12 +58,12 @@ For EnvisEdge, the technical writers will work on the following:
     
 -   The writer does not need to have in-depth mathematical and conceptual knowledge of our code base (e.g. mathematical ideas employed, research focused expertise), but they must have a fundamental understanding of the subject and technical writing abilities.
     
-We presume that the technical writer assigned to this project has no prior knowledge of NimbleEdge or its community. This means time will need to be built into the project plan at the start to get familiar with it. Mentors will provide walkthroughs, set up time for discussing with or interviewing different kinds of end-users and content experts. We are open to listening to writers' suggestions and contributions.
+>We presume that the technical writer assigned to this project has no prior knowledge of NimbleEdge or its community. This means time will need to be built into the project plan at the start to get familiar with it. Mentors will provide walkthroughs, set up time for discussing with or interviewing different kinds of end-users and content experts. We are open to listening to writers' suggestions and contributions.
 
 
 **TECHNICAL WRITERS:** Check out our [Google Season of Docs Announcement blog](https://blog.nimbleedge.ai/announcing-nimbleedge-google-season-of-docs-2022/) if you're interested in working on this project. We have added the steps to help you start your contributing journey in the GSOD 2022 with NimbleEdge EnvisEdge project.
 
-Note: We'll be only considering the applications from this [application form](https://forms.gle/z274GfjSVmHMD97n7), please make sure you have completed all the steps before submitting the [application form](https://forms.gle/z274GfjSVmHMD97n7).
+Note: We'll be only considering the applications from this [application form](https://forms.gle/z274GfjSVmHMD97n7), please make sure you have completed all the steps before submitting the form.
 
 The application deadline for the NimbleEdge GSoD Technical Writer position is May 8, 2022.
   
